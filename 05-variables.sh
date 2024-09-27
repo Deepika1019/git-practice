@@ -1,5 +1,8 @@
 #!/bin/bash
 
+USERNAME=deepika
+PASSWORD=deepika321
+
 echo "please enter your username::"
 
 read -s  USERNAME #takes input into USERNAME variable 
